@@ -10,7 +10,9 @@
 * 使用[個人網站](https://antiotseng.github.io/antio.github.io/)做為外部資料進行增強檢索。
 
 範例輸出：
+
 Q: Who is Antio Tseng?
+
 A: Antio Tseng is a Data Analyst/Data Scientist based in Taipei, Taiwan. He has a Master's degree in Statistics from National Chengchi University (NCCU) and previously worked as an intern at iKala inc. His skills include Python, R, Git, SQL, HTML, CSS, Tableau, Looker Studio, Machine Learning, Deep Learning, NLP, Statistics Analysis, Data Mining, and Metric design.
 
 
