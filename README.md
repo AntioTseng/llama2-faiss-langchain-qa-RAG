@@ -15,6 +15,7 @@ Q: Who is Antio Tseng?
 
 A: Antio Tseng is a Data Analyst/Data Scientist based in Taipei, Taiwan. He has a Master's degree in Statistics from National Chengchi University (NCCU) and previously worked as an intern at iKala inc. His skills include Python, R, Git, SQL, HTML, CSS, Tableau, Looker Studio, Machine Learning, Deep Learning, NLP, Statistics Analysis, Data Mining, and Metric design.
 
+![image](https://github.com/AntioTseng/llama2-faiss-langchain-qa-RAG/assets/106007959/cbd19811-ea11-4f8a-b6a4-05464f57413b)
 
 
 Reference:
